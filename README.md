@@ -11,3 +11,7 @@ I ended up using all the suggested tips from the following two articles in order
 * http://stackoverflow.com/questions/23564500/is-it-possible-to-push-a-index-html-to-heroku
 
 Only other thing I did was to put { } in my composer.json file as suggested by Heroku during deployment.
+
+So far, I have tested this website on my Windows Phone 8.1 Developer Edition browser (IE?) and Firefox on my Amazon Kindle Fire.  It's definitely mobile friendly but my Windows Phone and the Javascript that zips from place to place on the page does not work so great all the time.
+
+Future to-do's are to create web forms for some of the buttons.  They currently are linked to the original web site's forms.  
