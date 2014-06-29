@@ -15,3 +15,5 @@ Only other thing I did was to put { } in my composer.json file as suggested by H
 So far, I have tested this website on my Windows Phone 8.1 Developer Edition browser (IE?) and Firefox on my Amazon Kindle Fire.  It's definitely mobile friendly but my Windows Phone and the Javascript that zips from place to place on the page does not work so great all the time.
 
 Future to-do's are to create web forms for some of the buttons.  They currently are linked to the original web site's forms.  
+
+This is my second attempt at redesigning the site.  My first attempt can be seen at http://stark-fortress-2618.herokuapp.com/.  It is based on the free Bootstrap template from http://coverstrap.com/previews/strapped.html and is deployed to Heroku via Sinatra.  It started off as extra credit work in a class assignment from https://www.makeitwithcode.com/
